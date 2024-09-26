@@ -18,8 +18,7 @@
     { "source": "7", "target": "2" },
     { "source": "8", "target": "3" },
     { "source": "8", "target": "2" },
-    { "source": "8", "target": "1" },
-     { "source": "8", "target": "4" },
-     { "source": "8", "target": "5" }
+    { "source": "8", "target": "1" }
+
   ]
 }
