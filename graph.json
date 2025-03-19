@@ -3,14 +3,7 @@
     {
       "id": "1",
       "title": "CIP",
-      "description": "bla abl bla",
-      "e-mail": "ml.schuene@t-online.de",
-      "leadership": "Klaus Mühlhahn",
-      "contact-person": "Annalena Bearbock",
-      "founding-year": "2005",
-      "status": "aktiv",
-      "image": "https://mlschuenemann.github.io/initiative-mapping-data/images/cip.png",
-      "web-links": "https://helloworld.com",
+     "web_links": "https://www.zu.de/unileben/spoff/projekte/cip.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -25,6 +18,7 @@
     {
       "id": "2",
       "title": "whyKnot",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/whyknot.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -39,6 +33,7 @@
     {
       "id": "3",
       "title": "Tatendrang",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/tatendrang.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -53,6 +48,7 @@
     {
       "id": "4",
       "title": "Economix",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/economix.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -67,6 +63,7 @@
     {
       "id": "5",
       "title": "Luftschiffkapelle",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/luftschiffkapelle.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -81,6 +78,7 @@
     {
       "id": "6",
       "title": "Femability",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/femabilitity.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -95,6 +93,7 @@
     {
       "id": "7",
       "title": "CodeCats",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/codecats.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -108,7 +107,8 @@
     },
     {
       "id": "8",
-      "title": "Raum e.V.",
+      "title": "Die Blaue Blume",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/blaueblume.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -179,6 +179,7 @@
     {
       "id": "13",
       "title": "Abstract",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/abstrakt.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -193,6 +194,7 @@
     {
       "id": "14",
       "title": "Lange Nacht der Musik",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/langenachtdermusik.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -207,6 +209,7 @@
     {
       "id": "15",
       "title": "Welle20",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/welle20.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -221,6 +224,7 @@
     {
       "id": "16",
       "title": "Seekult",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/seekult.php",
       "style": {
         "radius": 25,
         "stroke_width": 6.25,
@@ -235,6 +239,7 @@
     {
       "id": "17",
       "title": "Blende 8",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/zoom.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -249,6 +254,7 @@
     {
       "id": "18",
       "title": "Drama Society",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/dramasociety.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -263,6 +269,7 @@
     {
       "id": "19",
       "title": "Soapbox",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/soapbox.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -277,6 +284,7 @@
     {
       "id": "20",
       "title": "BlockZuBlock",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/blockzublock.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -291,6 +299,7 @@
     {
       "id": "21",
       "title": "ZUFin",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/finanzgruppe.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -305,6 +314,367 @@
     {
       "id": "22",
       "title": "ZUtaten",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/zutaten.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "23",
+      "title": "StudentLounge",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/student-lounge.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "24",
+      "title": "mindful",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/mindful.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "25",
+      "title": "futurdrei",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/futur-drei.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "26",
+      "title": "NIDISI",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/nidisi.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "27",
+      "title": "FirstGen@ZU",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/firstgen@zu.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "28",
+      "title": "ZUkunftsbüro",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/zukunftsbuero.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "29",
+      "title": "FamilienFreunde",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/familienfreunde.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "30",
+      "title": "ZU Buddyteam",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/buddyteam.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "31",
+      "title": "Deutsch-Chinesischer Dialog",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/deutsch-chinesischer-dialog.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "32",
+      "title": "Togo Goes on",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/togo-goes-on.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Hochschulgruppe der Konrad-Adenauer-Stiftung",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/konradadenauerstiftung.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "34",
+      "title": "queer@ZU",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/queer.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Hochschulgruppe der Hanns-Seidel-Stiftung",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/hannsseidelstiftung.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "36",
+      "title": "CodeCats",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/codecats.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "37",
+      "title": "Student Care",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/student-care.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "38",
+      "title": "ZU First Aid | ZUFA",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/zufa.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "39",
+      "title": "Zeppelin MUN Society",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/lakemun.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "40",
+      "title": "Rotaract",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/rotaract.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "41",
+      "title": "Rock Your Life!",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/rock-your-life.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "42",
+      "title": "Ring Christlich-Demokratischer Studenten",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/rcds.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "43",
+      "title": "Liberale Hochschulgruppe",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/liberale-hochschulgruppe.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "44",
+      "title": "Jusos",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/juso.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "45",
+      "title": "Junge Europäische Föderalisten",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/jef.php",
+      "style": {
+        "radius": 30,
+        "stroke_width": 6.25,
+        "y_label": -42.5,
+        "color": "#ffffff",
+        "stroke_color": "#000",
+        "font_size": 25,
+        "font_color": "#444444",
+        "font_weight": "normal"
+      }
+    },
+    {
+      "id": "46",
+      "title": "Hochschulgruppe der Friedrich-Ebert-Stiftung",
+      "web_links": "https://www.zu.de/unileben/spoff/projekte/fes.php",
       "style": {
         "radius": 30,
         "stroke_width": 6.25,
@@ -316,6 +686,8 @@
         "font_weight": "normal"
       }
     }
+
+
   ],
   "links": [
     { "source": "9", "target": "10" },
@@ -339,5 +711,7 @@
     { "source": "20", "target": "10" },
     { "source": "21", "target": "10" },
     { "source": "22", "target": "10" }
+
+
   ]
 }
