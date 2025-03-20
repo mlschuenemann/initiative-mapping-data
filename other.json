@@ -1,0 +1,308 @@
+{"nodes": [
+  {
+    "id": "23",
+    "title": "Ehemalige",
+    "style": {
+      "radius": 75,
+      "stroke_width": 3.75,
+      "y_label": 5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#000000",
+      "font_weight": "bold"
+    }
+  },
+  {
+    "id": "24",
+    "title": "Studienstiftung",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/hochschulgruppe-friedrichshafen-der-studienstiftung-des-deutschen-volkes.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "25",
+    "title": "Behavioral Science Club",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/behavioural-science-club.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "26",
+    "title": "ImmiGreat",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/immigreat.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "27",
+    "title": "PPE-SPE-Conference",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/ppeconference.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "28",
+    "title": "P[art]y",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/party.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "29",
+    "title": "CodeCats",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/codecats.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "30",
+    "title": "Projekt:Babylon",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/projektbabylon.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "31",
+    "title": "welt_raum",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/weltraum.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "32",
+    "title": "Der Wilhelm",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/derwilhelm.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "33",
+    "title": "Studenteninitiative für Kinder",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/studenteninitiative-fuer-kinder-friedrichshafen.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "34",
+    "title": "AISEC",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/aiesec.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "35",
+    "title": "left CHOICE",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/left-choice.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "36",
+    "title": "Hacker School",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/hacker-school-friedrichshafen.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "37",
+    "title": "Zeppelin Orchestra",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/zeppelinorchestra.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "38",
+    "title": "Auf einen Wunsch setzen",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/wunschsetzen.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "39",
+    "title": "ZUfo",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/zufo.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "40",
+    "title": "YEP",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/yep.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  },
+  {
+    "id": "41",
+    "title": "Surrealistic City",
+    "web_links": "https://www.zu.de/unileben/spoff/projekte/surrealistic-city.php",
+    "style": {
+      "radius": 30,
+      "stroke_width": 6.25,
+      "y_label": -42.5,
+      "color": "#ffffff",
+      "stroke_color": "#000",
+      "font_size": 25,
+      "font_color": "#444444",
+      "font_weight": "normal"
+    }
+  }
+],
+"links": [
+  { "source": "23", "target": "24" },
+  { "source": "23", "target": "25" },
+  { "source": "23", "target": "26" },
+  { "source": "23", "target": "27" },
+  { "source": "23", "target": "28" },
+  { "source": "23", "target": "29" },
+  { "source": "23", "target": "30" },
+  { "source": "23", "target": "31" },
+  { "source": "23", "target": "32" },
+  { "source": "23", "target": "33" },
+  { "source": "23", "target": "34" },
+  { "source": "23", "target": "35" },
+  { "source": "23", "target": "36" },
+  { "source": "23", "target": "37" },
+  { "source": "23", "target": "38" },
+  { "source": "23", "target": "39" },
+  { "source": "23", "target": "40" },
+  { "source": "23", "target": "41" }
+
+]
+}
